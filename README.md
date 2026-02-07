@@ -3,7 +3,7 @@
 I’m a **security-focused engineering student** **| Distributed Systems & Kafka Enthusiast | Building an On-Prem Distributed IDS**
 
 
-📍 India  
+📍 India 
 📫 Email: **joemonjoy241@gmail.com**
 
 ---
