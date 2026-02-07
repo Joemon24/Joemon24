@@ -10,37 +10,11 @@ I’m a **security-focused engineering student** **| Distributed Systems & Kafka
 
 ## 🧠 What I’m building right now
 - A **Distributed Intrusion Detection System (IDS)** for on-prem Linux environments  
-
 ---
 
-## ⚙️ What I care about
-- How logs are generated, lost, forged, or delayed  
-- What happens when agents go down or lie  
-- Trust, consistency, and failure in distributed security systems  
-- Turning raw logs into *useful signals*, not noise
-
----
-
-## 🌱 What I’m learning (hands-on)
+## 🌱 What I’m learning
 - Detection engineering fundamentals
-- How real systems fail in production-like setups
-- Feature engineering for security events
 
----
-
-## 🤝 Open to collaborating on
-- Security tooling (IDS / SIEM / log pipelines)
-- Open-source security or infra projects
-
----
-
-## 💬 Ask me about
-- On-prem Linux security system
-
----
-
-## ⚡ Fun fact
-I don’t trust a system until I’ve **broken it myself** and watched how it recovers.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joemon__joy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joemon24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joemonjoy241@gmail.com) 
