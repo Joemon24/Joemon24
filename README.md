@@ -53,11 +53,13 @@ I'm a **Computer Science Engineering student** passionate about **Artificial Int
 
 ## 📌 Featured Projects
 
-- 🛡️ **Distributed IDS** (https://github.com/Joemon24/distributed-ids) — A distributed intrusion detection system for Linux environments.
-- 📊 **Bank Customer Churn Prediction** — Machine learning pipeline with EDA, feature engineering, and model evaluation.
-- 🛒 **Amazon Sales ML Analysis** — End-to-end data analysis and predictive modeling.
-- 📱 **Xipher** — Android application built using Kotlin.
+- 🛡️ **[Distributed IDS](https://github.com/Joemon24/distributed-ids)** — A distributed intrusion detection system for Linux environments.
 
+- 📊 **[Bank Customer Churn Prediction](https://github.com/Joemon24/bank-customer-churn-ml)** — Machine learning pipeline with EDA, feature engineering, and model evaluation.
+
+- 🛒 **[Amazon Sales ML Analysis](https://github.com/Joemon24/amazon-sales-ml-analysis)** — End-to-end data analysis and predictive modeling.
+
+- 📱 **[Xipher](https://github.com/Joemon24/Xipher)** — Android application built using Kotlin.
 ---
 
 > *Learning. Building. Improving. One project at a time.*
