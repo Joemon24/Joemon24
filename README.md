@@ -1,65 +1,64 @@
-# 👋 Hi, I'm Joemon Joy
+# Joemon Joy
 
-I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Distributed Systems**. I enjoy building intelligent applications, scalable software, and solving real-world problems through code.
+AI/ML Engineer focused on **Generative AI, LLM applications, RAG, Deep Learning, and distributed ML systems**.
 
-📍 India  
-📧 Email: **joemonjoy241@gmail.com**
+I build practical AI systems spanning model development, inference, backend services, distributed event processing, and security-focused machine learning.
 
----
+## What I'm Building
 
-## 🚀 What I'm Currently Building
+- **ARC** — Enterprise AI platform focused on Secure RAG, agentic workflows, AI tools, permission-aware retrieval, and enterprise knowledge systems.
+- **Distributed IDS + SOAR** — AI-powered intrusion detection and automated response platform using Go, Python, Kafka, Elasticsearch, and machine learning.
+- **Deep Learning Applications** — PyTorch-based neural network projects with deployable inference APIs.
 
-- 🤖 AI & Machine Learning Projects
-- 🛡️ Distributed Intrusion Detection System (IDS)
-- 🧠 Deep Learning Applications
-- ⚙️ Production-ready Software Systems
+## Technical Focus
 
----
-
-## 📚 Currently Learning
-
-- PyTorch
+**AI / ML**
+- Machine Learning
 - Deep Learning
-- Large Language Models (LLMs)
-- Computer Vision
-- MLOps
+- NLP
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Anomaly Detection
+- Model Evaluation
+- Model Inference
 
----
+**Engineering**
+- Python
+- Go
+- FastAPI
+- REST APIs
+- PostgreSQL
+- Elasticsearch
+- Kafka
+- Docker
+- Linux
+- Git
 
-## 🌐 Connect with Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joemon24)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/joemon24)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joemon__joy)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joemonjoy241@gmail.com)
+### ARC — Enterprise AI Platform
+Enterprise AI platform focused on secure, permission-aware RAG and agentic workflows.
 
----
+**Repository:** [arc-ive/arc](https://github.com/arc-ive/arc)
 
-# 💻 Tech Stack
+### Distributed IDS + SOAR
+Distributed intrusion detection and response system using Go telemetry agents, Kafka, Python ML detection, Elasticsearch, and automated response workflows.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apachekafka)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[View Repository](https://github.com/Joemon24/distributed-ids)
 
----
+### Emotion Classification API
+Six-class emotion classification system using PyTorch and Bi-GRU, exposed through a FastAPI inference service and deployed with Docker.
 
-## 📌 Featured Projects
+[View Repository](https://github.com/Joemon24/emotion-classification)
+·
+[Live API](https://emotion-classification-z9uu.onrender.com/docs)
 
-- 🛡️ **[Distributed IDS](https://github.com/Joemon24/distributed-ids)** — A distributed intrusion detection system for Linux environments.
+## Connect
 
-- 📊 **[Bank Customer Churn Prediction](https://github.com/Joemon24/bank-customer-churn-ml)** — Machine learning pipeline with EDA, feature engineering, and model evaluation.
-
-- 🛒 **[Amazon Sales ML Analysis](https://github.com/Joemon24/amazon-sales-ml-analysis)** — End-to-end data analysis and predictive modeling.
-
-- 📱 **[Xipher](https://github.com/Joemon24/Xipher)** — Android application built using Kotlin.
----
-
-> *Learning. Building. Improving. One project at a time.*
+[LinkedIn](https://www.linkedin.com/in/joemon24/)
+·
+[GitHub](https://github.com/Joemon24)
+·
+[Email](mailto:joemonjoy241@gmail.com)
